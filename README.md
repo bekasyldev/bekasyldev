@@ -9,7 +9,7 @@ I've been immersed in coding for nearly a year now, and my passion lies in maste
 *   🌍  I'm based in Astana
 *   🖥️  See my portfolio at [MyPortfolio](http://bekasylportfolio.vercel.app/)
 *   ✉️  You can contact me at [devbekasyl@gmail.com](mailto:devbekasyl@gmail.com)
-*   🚀  I'm currently working on [e-commerce website on my own project](http://github.com/bekasyldev/e-commerce)
+*   🚀  I'm currently working on [dron education platform](http://github.com/bekasyldev/dron-ed)
 *   🧠  I'm learning Next.JS, Docker, Node.js, Typescript, etc.
 *   🤝  I'm open to collaborating on Web-Based Applications
 *   ⚡  I love jazz music.
